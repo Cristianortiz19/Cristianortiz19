@@ -36,7 +36,7 @@
 
 
 
-✔ Callme: ***Cris*** or ***cristian*** <br>
+✔ Callme: ***Cris*** or ***Cristian*** <br>
 ✔ I'm currently creating a web development consultancy called **Kometa Studios ☄️**<br>
 ✔ I’m currently learning **Angular**🥰<br>
 ✔ I'm looking for a job as a **front-end developer**<br>
