@@ -6,15 +6,15 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/cristian-ortiz-melendez/" target="_blank">
+<a href="https://www.linkedin.com/in/cristian-ortiz-melendez/" target="blank">
 <img src="https://img.shields.io/badge/linkedin:  cristian ortiz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>&nbsp;
 
-<a href="mailto:cristianortiz0319@hotmail.com" target="_blank">
+<a href="mailto:cristianortiz0319@hotmail.com" target="blank">
 <img src="https://img.shields.io/badge/gmail:  cristian ortiz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>&nbsp;
 
-<a href="https://www.behance.net/cristianortiz6" target="_blank">
+<a href="https://www.behance.net/cristianortiz6" target="blank">
 <img src="https://img.shields.io/badge/Behance: cristian ortiz-1769ff?style=for-the-badge&logo=behance&logoColor=white" t=behance style="margin-bottom: 5px;" />
 </a>&nbsp;
 </div>
